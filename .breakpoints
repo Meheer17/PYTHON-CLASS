@@ -1,5 +1,21 @@
 {
   "files": {
+    "Questions/Class/qu12.py": [
+      {
+        "id": "c3206d40-62ae-4fa1-bae3-f8686b2786b9",
+        "line": 24,
+        "version": 1,
+        "index": 534
+      }
+    ],
+    "Questions/Classwork/qu19.py": [
+      {
+        "id": "c2a75141-2704-4fb5-b1c4-83d02b971d09",
+        "line": 11,
+        "version": 206,
+        "index": 198
+      }
+    ],
     "Questions/Test/q1.py": [
       {
         "id": "c0aa8808-ca5e-4c07-950a-b00c93568736",
