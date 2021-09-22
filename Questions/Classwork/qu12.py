@@ -16,4 +16,4 @@ for d in a:
     else:
         count +=0
 
-print("The number {} in {} comes {} times".format(b,a,count))        
+print(f"The number {b} in {a} comes {count} times")        

@@ -5,4 +5,4 @@ n = 1
 while num > 0:
         n*= num
         num -= 1
-print("The factorial is: ",n)        
+print(f"The factorial is: {n}")        

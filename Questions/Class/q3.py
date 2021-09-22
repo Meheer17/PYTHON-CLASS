@@ -3,4 +3,4 @@
 num1 =float(input("Enter the first number: ")) 
 num2 = float(input("Enter the second number: "))
 sum1=int(num1+num2)
-print("The sum of {} and {} is {}".format(num1, num2, sum1))
+print(f"The sum of {num1} and {num2} is {sum1}")

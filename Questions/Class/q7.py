@@ -12,13 +12,13 @@ if D>0:
   root1 =(-b+d**0.5)/d
   root2 =(-b-d**0.5)/d
   print("\n")
-  print("Root1= ",root1 ,"\n" ,"Root2= ",root2)
+  print(f"Root1= {root1} \n Root2= {root2}")
 
 elif D ==0:
   print("EQUAL ROOTS")
   root=-b/d
   print("\n")
-  print("Root1 and Root2= ",root)
+  print(f"Root1 and Root2= {root}")
 
 else :
   print("No Roots")

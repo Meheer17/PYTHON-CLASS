@@ -14,4 +14,4 @@ n10 = int(input("Enter your number (10): "))
 sum = n1+n2+n3+n4+n5+n6+n7+n8+n9+n10
 avg = sum/10
 
-print("the sum of the numbers is ",sum," and their avg is ",avg)
+print(f"the sum of the numbers is {sum} and their avg is {avg}")

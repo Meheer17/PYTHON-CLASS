@@ -15,6 +15,6 @@ while(True):
             neg_count+=1
 
 print()
-print(f"Number of positive numbers: " ,pos_count)
-print(f"Number of negative numbers: ",neg_count)
-print(f"Number of zeros: ",zero_count)
+print(f"Number of positive numbers:  {pos_count}")
+print(f"Number of negative numbers: {neg_count}")
+print(f"Number of zeros: {zero_count}")
