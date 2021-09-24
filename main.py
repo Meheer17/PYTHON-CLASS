@@ -1,1 +1,1 @@
-from Questions.Class import qu11
+from Questions.Pattern import q3
