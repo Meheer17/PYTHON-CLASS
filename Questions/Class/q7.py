@@ -9,8 +9,8 @@ d=2*a
 print("\n")
 if D>0:
   print("REAL ROOTS")
-  root1 =(-b+d**0.5)/d
-  root2 =(-b-d**0.5)/d
+  root1 =(-b+D**0.5)/d
+  root2 =(-b-D**0.5)/d
   print("\n")
   print(f"Root1= {root1} \n Root2= {root2}")
 

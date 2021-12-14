@@ -12,7 +12,7 @@ while(True):
     elif(num > 0):
         pos_count += 1
     else:
-            neg_count+=1
+        neg_count+=1
 
 print()
 print(f"Number of positive numbers:  {pos_count}")

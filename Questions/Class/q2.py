@@ -7,4 +7,4 @@ Sakkalwara
 Bangalore"""
 print("Single quote string=", name)
 print("Double  quote string=", Class)
-print("Multilibne string=", add) 
+print("Multiline string=", add) 

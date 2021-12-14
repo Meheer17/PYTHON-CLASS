@@ -1,1 +1,1 @@
-from Questions.Pattern import q3
+from Other import qs
