@@ -6,7 +6,7 @@
 
 def rev(s):
     r = s[::-1]
-    print(f'The rev is {r}')
+    print(f'The rev is "{r}"')
     print()
 
 def there(s):
@@ -19,14 +19,12 @@ def there(s):
         if co[index] == i:
             print(f"{i} found at {index}")
         else:
-            print("Not Found")
             pass
         index += 1
     print()
 
 def vol(s):
     vol = ["a", "e", "i", "o", 'u', "A", 'E', 'I', 'O', 'U']
-    index = 0
     h = list(s)
     for i in h: 
         if i in vol: 
@@ -35,7 +33,7 @@ def vol(s):
     print(hehe)
     print()
 
-def num(s):
+def num(string):
     x = input("Enter the character: ")
     h = list(s)
     val = 0

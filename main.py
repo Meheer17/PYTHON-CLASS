@@ -1,1 +1,1 @@
-from Other import qs
+from Questions.Classwork import qu32
