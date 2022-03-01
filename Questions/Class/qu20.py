@@ -1,6 +1,20 @@
-#WAP to convert to binary and to decimal 
-print("1. Decimal to Binary \n2. Binary to Decimal \n3. Quit")
-c = input("Enter your choice: ")
-while True: 
-    if c == 1: 
-        
+binary = int(input("Enter the number in binary: "))
+decimal, i, n = 0, 0, 0
+while(binary != 0):
+    dec = binary % 10
+    decimal = decimal + dec * pow(2, i)
+    binary = binary//10
+    i += 1
+print(decimal)   
+
+b = 0
+m = 1
+
+inp_decimal = int(input("Enter the number in decimal: "))
+
+while inp_decimal >0:
+    b = b + ((inp_decimal % 2) * m)
+    m = m * 10
+    inp_decimal = int(inp_decimal/2)
+
+print(b)
